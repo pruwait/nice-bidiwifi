@@ -8,3 +8,5 @@ Tx | Rx
 Rx | Tx 
 En | RTS
 GPIO0 | DTR 
+
+![alt text](/schematics/testpoint.jpg "Testpoints")
