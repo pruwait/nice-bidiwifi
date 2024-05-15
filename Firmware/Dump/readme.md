@@ -1,1 +1,1 @@
-White with offset 0x10000
+White ota file with offset 0x10000
